@@ -1,0 +1,5 @@
+nombre = input("Digite su nombre: ")
+edad = (input("Digite su Edad: "))
+print(f"Hola {nombre} Bienvenido tu edad es: {edad} años")
+numero = int(input("Por favor digite un Número: "))
+print(f"El doble del numero ingresado es {numero*2}")
